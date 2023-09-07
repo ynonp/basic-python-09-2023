@@ -2,12 +2,12 @@
 
 ### Introduction To Python
 
-- [ ] Hello Python
-- [ ] A First Python Program in Colab
-- [ ] A First Python Program in PyCharm
-- [ ] The Python REPL
-- [ ] Writing and Debugging Code
-- [ ] Some error messages you should know about
+- [x] Hello Python
+- [x] A First Python Program in replit
+- [x] A First Python Program in PyCharm
+- [x] The Python REPL
+- [x] Writing and Debugging Code
+- [x] Some error messages you should know about
 
 ### Python Syntax
 
@@ -16,16 +16,22 @@
 
 
 ### Python Syntax Lab
+Time is now 14:37
+Work time on the first batch of exercises until 15:07
 
 - [ ] Write a python script that reads a user's age in years and prints out its age in months
 
 - [ ] Write a python script that reads a number and checks if the number has the digit 7 in it, or is divisable by 7
 
-- [ ] Write a python script that reads 3 numbers and print the largest one
-
 - [ ] Use python to calculate the sum of all odd numbers 3, 5, 7, 11, 13, ... , 99
 
-- [ ] Create a Python program to check the complexity of a password: It should ask the user for a word and verify the word contains a lowercase letter, an uppercase letter and a number.
+- [ ] Create a Python program to check the complexity of a password
+      If the password contains a digit -> add 1 to its complexity score
+      If it contains an uppercase letter -> add 1 to its complexity score
+      If it contains a non-letter sign (!@$) -> add 1 to its complexity score
+      Print the password complexity score
+
+
 
 ### More Python Syntax
 - [ ] Loops and Conditionals
@@ -34,6 +40,8 @@
 
 
 ### Python Syntax Lab Part 2
+
+- [ ] Write a python script that reads 3 numbers and print the largest one
 
 - [ ] Write a python script that reads a user's age in years and prints out its age in months
 

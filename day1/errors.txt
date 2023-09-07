@@ -1,0 +1,33 @@
+Traceback (most recent call last):
+  File "/Users/ynonp/work/courses/python/innoviz/basic-python-09-2023/day1/helloworld.py", line 4, in <module>
+    printf("Hello World")
+    ^^^^^^
+NameError: name 'printf' is not defined. Did you mean: 'print'?
+
+---
+
+  File "/Users/ynonp/work/courses/python/innoviz/basic-python-09-2023/day1/helloworld.py", line 1
+    name = "ynon
+           ^
+SyntaxError: unterminated string literal (detected at line 1)
+
+---
+
+  File "/Users/ynonp/work/courses/python/innoviz/basic-python-09-2023/day1/helloworld.py", line 4
+    print "Hello World"
+    ^^^^^^^^^^^^^^^^^^^
+SyntaxError: Missing parentheses in call to 'print'. Did you mean print(...)?
+
+---
+
+  File "/Users/ynonp/work/courses/python/innoviz/basic-python-09-2023/day1/helloworld.py", line 3
+    ynon "Hello World"
+         ^^^^^^^^^^^^^
+SyntaxError: invalid syntax
+
+---
+
+/Users/ynonp/work/courses/python/innoviz/basic-python-09-2023/day1/helloworld.py
+  File "/Users/ynonp/work/courses/python/innoviz/basic-python-09-2023/day1/helloworld.py", line 3
+    print("Hello World")
+IndentationError: unexpected indent
