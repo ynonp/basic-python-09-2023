@@ -51,12 +51,6 @@ Work time on the first batch of exercises until 15:07
 
 
 
-- [ ] Project euler problem 1: [https://projecteuler.net/problem=1](https://projecteuler.net/problem=1)
-
-- [ ] Project euler problem 2: [https://projecteuler.net/problem=2](https://projecteuler.net/problem=2)
-
-
-
 
 
 
@@ -65,27 +59,4 @@ Work time on the first batch of exercises until 15:07
       If it contains an uppercase letter -> add 1 to its complexity score
       If it contains a non-letter sign (!@$) -> add 1 to its complexity score
       Print the password complexity score
-
-### Working With files (if time permits)
-
-- [ ] The pathlib module
-
-- [ ] Listing files and directories
-
-- [ ] Print out some lines from a file
-
-
-### Working with files lab
-
-- [ ] Print the names of all *.py files in a given directory
-
-- [ ] Find all the *.py files in a directory that do `import pathlib`
-
-- [ ] Find all the files in a given directory whose size is larger than 1MB
-
-- [ ] Print out only the file names (not directories) in a given directory and all its sub-directories
-
-- [ ] Write a python script that reads a file name from the user and prints the first 5 lines in that file
-
-- [ ] Write a python script that reads a file name from the user and prints the last 5 lines in that file
 
