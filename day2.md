@@ -1,17 +1,17 @@
 # Basic Python Course - Session 2
 
 Functions
-    - Writing functions
-    - Writing and using lambda expressions
-    - scope
+- [x] Writing functions
+- [x] Writing and using lambda expressions
+- [ ] scope
 
 Functions Lab
 
-- [ ] Write a function that takes a number and returns the sum of its digits
+- [x] Write a function that takes a number and returns the sum of its digits
 
-- [ ] Write a function that takes weight in lb and returns the value in kg
+- [x] Write a function that takes weight in lb and returns the value in kg
 
-- [ ] Write a function that takes a temperature value and 
+- [x] Write a function that takes a temperature value and 
       returns a string telling the user what they should wear
 
 
