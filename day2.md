@@ -19,20 +19,22 @@ Functions Lab
 
 
 Python Data Structures
-    - arrays
-    - dictionaries
-    - tuples
-    - sets
+    - [x] arrays
+    - [x] dictionaries
+    - [x] tuples
+    - [x] sets
     - list comprehension
     - dictionary comprehension
 
 
+- [ ] Write a Python function that takes an array of numbers,  calculate the average number and returns only the numbers that are larger than the average
+
 - [ ] Project euler problem 1: [https://projecteuler.net/problem=1](https://projecteuler.net/problem=1)
-
+      Answer: 233168
+- 
 - [ ] Project euler problem 2: [https://projecteuler.net/problem=2](https://projecteuler.net/problem=2)
-
-- [ ] Write a Python function that takes an array of numbers, calculate the average number and returns only the numbers that are larger than the average
-
+      Answer: 4613732
+ 
 - [ ] Write a Python function that takes a string and returns a boolean value indicating whether the string contains all the letters in the alphabet
 
 - [ ] Two words are an anagram if they have the same letters (possibly in different order). Write a python function that takes a list of words and return a list of sets of anagrams. For example:
