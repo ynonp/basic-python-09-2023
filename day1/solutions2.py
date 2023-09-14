@@ -79,3 +79,25 @@ while True:
     for i in range(2, start):
       if start % i == 0:
         start_is_prime = False
+
+
+
+# n = 1242
+# prime_factor = 2
+# while n > 1:
+#   while n % prime_factor == 0:
+#     print(prime_factor)
+#     n = n // prime_factor
+#   prime_factor = next_prime_number_after(prime_factor)
+
+
+# for -> iterate over a sequence of "things"
+# while -> repeat something until / while a condition is true / false
+
+
+
+
+
+
+
+

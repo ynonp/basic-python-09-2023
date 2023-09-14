@@ -11,7 +11,11 @@ Functions Lab
 
 - [ ] Write a function that takes weight in lb and returns the value in kg
 
-- [ ] Write a function that takes a temprature value and returns a string telling the user what they should wear
+- [ ] Write a function that takes a temperature value and 
+      returns a string telling the user what they should wear
+
+
+
 
 
 Python Data Structures
