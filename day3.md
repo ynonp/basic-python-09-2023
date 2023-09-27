@@ -19,9 +19,6 @@ anagrams(['add', 'dad', 'help', 'more', 'rome']) ==
 ```
 
 
-Break until 14:45
-
-
 Files and OS
 - [x] import os
 - [x] import pathlib
@@ -33,7 +30,7 @@ Working with files lab
 
 15:50-16:30
 
-- [ ] Create a text file that contains a multiplication table, ie:
+- [x] Create a text file that contains a multiplication table, ie:
 
 ```
 1  2  3  4   5  6  7  8  9 10
@@ -45,10 +42,10 @@ Working with files lab
 
 - [ ] Create a program that creates copies of itself: It takes from sys.argv a list of names of copies, and copies itself to each name
 
-- [ ] Create a program that takes a file name from sys.argv and prints the number of lines in that file
+- [x] Create a program that takes a file name from sys.argv and prints the number of lines in that file
 
 ## Search in pathlib doc
-- [ ] Print the names of all *.py files in a given directory
+- [x] Print the names of all *.py files in a given directory
 - [ ] Find all the *.py files in a directory that do `import pathlib`
 - [ ] Find all the files in a given directory whose size is larger than 1MB
 
@@ -61,9 +58,11 @@ Working with files lab
 
 
 Classes and Objects
-- [ ] Object Oriented Concepts
-- [ ] Defining and Using classes
-- [ ] Methods and Instance Variables
+- [x] Object Oriented Concepts
+- [x] Defining and Using classes
+- [x] Methods and Instance Variables
+- [x] `__init__` special method
+- [x] writing data to files with pickle
 
 
 
