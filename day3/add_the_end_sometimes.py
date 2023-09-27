@@ -7,9 +7,10 @@ else don't add anything
 import sys
 import tempfile
 import shutil
+import os
 
 filename = sys.argv[1]
-temp_file_handle, temp_filename = tempfile.mkstemp()
+temp_file_handle, temp_filename = tempfile.mkstemp(text=True)
 
 file_contains_python = False
 
@@ -22,4 +23,4 @@ with open(temp_filename, "w") as tmp:
         if file_contains_python:
             tmp.write("--- the end ---")
 
-    shutil.copy(temp_filename, filename)
+shutil.move(temp_filename, filename)
