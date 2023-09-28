@@ -2,16 +2,16 @@
 
 ## Review Exercises
 
-- [ ] Create a program that creates copies of itself:
+- [x] Create a program that creates copies of itself:
       It takes from sys.argv a list of names of copies, and copies itself to each name
       - print out to the screen all the words you read from sys.argv
       - put each word from sys.argv in a for loop - do something with each word
       - copy yourself (who are you by the way?) to the Path(argument)
 
+- [x] Find all the *.py files in a directory that do `import pathlib`
+    - list all the files (or .py files) in a directory
+    - get the text from the file
 
-- [ ] Find all the *.py files in a directory that do `import pathlib`
-
-- [ ] Find all the files in a given directory whose size is larger than 1MB
 
 - [ ] Two words are an anagram if they have the same letters (possibly in different order). Write a python function that takes a list of words and return a list of sets of anagrams. For example:
 
@@ -21,6 +21,9 @@ anagrams(['add', 'dad', 'help', 'more', 'rome']) ==
 ```
 
 - [ ] https://projecteuler.net/problem=4
+
+
+
 
 - [ ] https://adventofcode.com/2022/day/1
 
